@@ -1,7 +1,7 @@
 # CheckPoint_VPN_fix_wsl_routes
 Powershell script to fix internet connection issue with WSL2 and CheckPoint VPN. It rewrites the route table in your Windows host machine.
 
-#How To
+# How To
 Just run the script in the Windows Powershell as an Administrator:
 
 `.\vpn_fix_wsl_routes.ps1`
